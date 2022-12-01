@@ -1,0 +1,3 @@
+To run sample_pinger on windows 10, please use Python 2.7. Do not use Python 3. If in command prompt, use "python sample_pinger.py" instad of "py sample_pinger.py". If using ide, please change the intepreter version.
+
+To change the ping destination, change the address inside quotation mark on line 142 inside the function arg to the desired address. or change the arg to sys.argv[1] and input host as the second arg in command prompt
